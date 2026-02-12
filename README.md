@@ -1,3 +1,8 @@
+# Positivus Landing Page (React)
+
+Live Demo:responsive-landing-page-sl8m-9q5c6ab7u-priya-akhadkars-projects.vercel.app 
+GitHub Repo: https://github.com/kabirubale29/figma-to-react-landing-page
+responsive-landing-page-sl8m-9q5c6ab7u-priya-akhadkars-projects.vercel.app
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

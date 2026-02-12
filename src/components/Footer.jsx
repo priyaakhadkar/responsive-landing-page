@@ -14,11 +14,11 @@ export default function Footer() {
             </div>
 
             <div className="footer-nav">
-              <a href="#">About us</a>
-              <a href="#">Services</a>
-              <a href="#">Use Cases</a>
-              <a href="#">Pricing</a>
-              <a href="#">Blog</a>
+              <a href="/">About us</a>
+              <a href="/">Services</a>
+              <a href="/">Use Cases</a>
+              <a href="/">Pricing</a>
+              <a href="/">Blog</a>
             </div>
 
             <div className="footer-contact">
@@ -44,7 +44,7 @@ export default function Footer() {
 
           <div className="footer-bottom">
             <div>© 2023 Positivus. All Rights Reserved.</div>
-            <a href="#">Privacy Policy</a>
+            <a href="/">Privacy Policy</a>
           </div>
 
         </div>
